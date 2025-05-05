@@ -2,7 +2,7 @@
 # Burp Suite Demo – IT 250 Spring 2025
 
 **Role:** Junior Pen Tester | **Tool:** Burp Suite Community | **Target:** OWASP Juice Shop  
-**Video:** <https://youtu.be/REPLACE_WITH_VIDEO_URL>
+**Video:** (https://youtu.be/rgawa7FKhAY)
 
 ---
 
